@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Python Script" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO V .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>CAPTULO V.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Do Catarrho .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>De Catarrho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ainda que o catarrho naõ seja ordinariamente huma doença perigosa , com tudo naõ he menos verdade , que quando elle he desprezado, póde chegar a fazer-se tal ; en tenho conhecido Marinheiros , que morreraõ de tysica , em consequencia de hum catarrho desprezado .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Embora o catarro não seja geralmente uma doença perigosa, com tudo não há menos verdade, que quando ele tem desprezado, ele pode chegar a ser tal; eu tenho conhecido marinheiros, que morrerão de tísica, em conseqüência de um catarro desprezado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ordinariamente julga-se , que naõ he precizo fazer remedio algum para curar o catarrho , e que quanto mais remedios se lhe fazem , mais elle dura , mas isto he hum erro popular ; porque o catarrho he huma doença , que se trata como as outras , e que se cura com remedios apropriados á natureza do mal.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Geralmente, julga-se que eu não preciso fazer remédio algum para curar o catarro, e que quanto mais remédios se fazem, mais dura, mas isso tenho um erro popular; porque o catarro fuma doença, que se trata como as outras, e que se cura com remédios apropriados à natureza do mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Os que os desprezaõ , ou que fazem outros contrarios , aprendem à sua custa , o quaõ caro lhe sahe o terem-se conduzido mal .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Aqueles que os desprezam, ou que fazem outros contrários, aprendem às suas custas, o quão caro lhe saiu o terem conduzido mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ha entre os Marinheiros a respeito do catarrho huma preoccupaçaõ perigosa , que tem custado a vida a muitos delles ; julgaõ , que a sangria he contraria ao defluxos ; de forte que succede todos os dias , que hum Marinheiro atacado de hum defluxo de peito , de hum pleuriz , naõ se quer deixar sangrar , quando se lhe propõe , com o pretexto de que tem tosse , e que a sua doença naõ he senaõ hum defuxo ; eu tenho conhecido muitas victimas de similhante preoccupaçaõ ; eu concordaria com elles , que a sangria naõ he necessaria para curar hum simples defluxo , e que quando esta doença he benigna , ella se cura ordinariamente sem o soccorro da sangria; mas he falso , que a sangria seja contraria á cura do defluxo ; eu accrescento mesmo , que ella he muito necessaria em certas especies , principalmente quando a febre , a inflammaçaõ do peito , e a oppressaõ saõ fortes , quando a expectoraçaõ , ou sahida dos escarros se faz com dificuldade ; porque se se desprezar a sangria em taes circunstancias , faz-se a doença muitas vezes mais seria , e grave , muda de natureza ; e mata os doentes , o que succede muitissimas vezes ; o menor mal , que dahi se poderia seguir he , que hum tal catarrho , que se teria curado no espaço de sete para oito dias com huma , ou duas sangrias feitas quando era conveniente , dura muitas semanas sem contar os riscos , em que incorrem os doentes ; e com effeito ninguem ignora , que o defluxo seja huma accumulaçaõ inflammatoria das partes , aonde elle tem o seu assento : ora todos os Professores da Arte sabem , que a sangria he o unico , o mais seguro , e o mais prompto remedio para curar todas as especies de infammações ; logo póde-se , e deve-se mesmo sangrar no defluxo , quando a febre fôr violenta , quando esta durar mais de vinte e quatro horas , quando a tosse fôr forte , a pretas violenta , e quando o pulfo fôr cheio , e duro .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Há entre os marinheiros a respeito do catarro uma preocupação simples, que custou a vida a muitos; julgo que a sangria é contrária ao fluxo; de forte que acontece todos os dias, que um marinheiro atacado de um fluxo de peito, de um pleuriz, não se concordou em deixar sangrar, quando se lhe propôs, com o pretexto de um fluxo. Mas eu falhei, que a sangria é contrária à cura do defluxo; eu mesmo acresço, que ela é muito necessária em certas espécies, principalmente quando a febre, a inflamação do peito, e a opressão são fortes, quando a expectoração, ou saída dos espargos se faz com dificuldade; porque se se despreza a sangria, muitas vezes se faz muito mais doença. O menor mal que se poderia seguir, que um tal catarro, que se teria curado no espaço de sete a oito dias com fumaça, ou duas sangrias feitas quando era conveniente, dura muitas semanas sem contar os riscos, em que incorrem os doentes; e com efeito ninguém ignora, que o fluxo seja fumaça acumulação inflamatória das partes, onde ela tem Agora todos os Professores de Arte sabem que a sangria é o único remédio mais seguro e rápido para curar todas as espécies de infamias; logo se pode, e se deve até sangrar no fluxo, quando a febre é violenta, quando dura mais de vinte e quatro horas, quando a tosse é forte, quando a tosse é violenta, quando o pulso é preto e violento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>As especies de defluxo saõ tres ; a primeira ataca as partes que forraõ interiormente as ventas , o seio que occupa a parte inferior , e media do osso frontal , que se chama feio frontal , e outras duas cavidades , que estaõ entre os ossos da maxilla superior , que se chamaõ tambem feios maxillares , e este se chama defluxo do cerebro ; o segundo ataca o fundo da garganta ; o terceiro finalmente ataca a laringe , que he o canal , que vai da bocca acabar em o bofe , e se chama catarrho do peito ; a infammaçaõ communica-se muitas vezes de huma parte á outra , e algumas vezes ellas saõ atacadas todas ao mesmo tempo , o que faz o catarrho mais perigoso , e mais dificil de curar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>As espécies de defluxo são três; a primeira ataca as partes que forram interiormente as vendas, o seio que ocupa a parte inferior e meio do osso frontal, que se chama de feio frontal, e outras duas cavidades, que se chama também feias maxilares, e este se chama de defluxo do cérebro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se as alternativas do ár , a intemperança das estações , e a inconstancìa dos tempos produzem frequentemente catarrhos entre os que habitaõ as Cidades , com quanta maior razaõ os Marinheiros , que continuamente estaõ expostos a todas as intemperanças do ár , e que mudaõ , por assim dizer , todos os dias de clima , deveráõ estar sujeitos aos defluxos ; he verdade , que esta doença raras vezes he mortal ; mas se se despreza , como eu já disse , e se se naõ trata , como deve ser , entaõ póde vir a ser mortal , degenerando em defluxo de peito , em pleuriz , ou em peripneumonia .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Se as alternativas do ar, a intempérie das estações, e a inconstância dos tempos, devem ser freqüentemente produzidas em poeira ou em fluxos entre os que habitam as cidades, quanto mais os marinheiros, que continuamente estão expostos a todas as intempéries do ar, e que mudam, por assim dizer, todos os dias de clima, devem estar sujeitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A causa mais ordinaria dos catarrhos he huma transpiraçaõ embaraçada , ou diminuida , hum sangue disposto para a inflammaçaõ , que produz o defluxo de peito , e as outras doenças , que reinaõ ao mesmo tempo , que o defluxo ; e todos os dias se está observando ; que os symptomas , que caracterizaõ o defluxo , saõ pouca diferentes dos que acompanhaõ estas outras doenças .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>A causa mais comum dos catarros tem uma transpiração envergonhada, ou diminuída, um sangue disposto para a inflamação, que produz o fluxo de peito, e as outras doenças, que reinam ao mesmo tempo, que o fluxo; e todos os dias se está observando; que os sintomas, que caracterizam o fluxo de diferentes, são poupados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>E com effeito elle he precedido , como ellas de tremor , de febre , de dôr de cabeca , de difficuldade de respirar ; a tosse vem ao depois ; ella he secca nos primeiros dias , e naõ se faz expectoraçaõ alguma de escarros ; pouco a pouco elles se vaõ formando , vaõ-se fazer do de hum dia para outro brancos , mais grossos , e sahem com menos difficuldade : todos os symptomas se moderaõ entaõ , se diminuem , e diz-se , que o catarrho está cozido .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>E com efeito ela tenho precedido, como elas de tremor, de febre, de dor de cabeça, de dificuldade de respirar; a tosse vem depois; ela tem secado nos primeiros dias, e não se expectoraão alguma escarros; pouco a pouco elas se vão formando, vai-se fazendo de um dia para outro brancos, vai-se fazendo de um dia para o outro maior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Taes saõ pois os passos , e a marcha , que faz hum catarrho do peito , que ataca a superficie do bofe .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Então saem os passos, e a marcha, que faz um catarro do peito, que ataca a superfície do bofe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Naõ he mesmo couza rara , que nesta especie os doentes tenhaõ pontadas , e dóres no lado ; ainda que na verdade ellas saõ mais leves , duraõ menos , do que no pleuriz verdadeiro .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Nao tenho mesmo coça rara, que nesta espécie os doentes tenham pontas, e dores no lado; embora na verdade elas sejam mais leves, duram menos, do que na pleurisia verdadeira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>No defluxo , que ataca a guéla , e o fundo da garganta , todas estas partes estaõ inchadas ; os doentes engolem , e respiraõ com trabalho , até que ellas se desembaracem .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>No fluxo, que ataca a guela, e o fundo da garganta, todas essas partes estão inchadas; os doentes engoliram, e respiram com trabalho, até que elas se desfaçam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Naquelle que tem o seu assento nos feios frontaes , ou maxillares , e na membrana , que forra as ventas , naõ se assoaõ os doentes nos principios , senaõ tirando do nariz huma agoa clara , que he muito acre , que irrita as ventas , fa-las inchar , e faz muitas vezes rebentar o beiço superior ; elles perdem o cheiro , o gosto , e até mesmo o appetite , quando este humor passando pela bocca , irrita todo o caral por onde passa o comer , e o beber , e desce para o estomago , de naõ está livre de experimentar a sua impressaõ .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Naquele que tem seu assento nas frentes feias, ou maxilares, e na membrana, que forra as vendas, não se assoa os doentes nos princípios, senão tirando do nariz uma agulha clara, que eu tenho muito acre, que irrita as vendas, as faz inchar, e elas muitas vezes explodem o beijo superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Como o catarrho tem por causa as mesmas que produzem a esquinencia , o pleuriz , a peripneumonia , e o defluxo do peito , por isso he precizo , quando elle he violento , combate-lo com  os mesmos remedios , que eu ja indiquei , quando se tratou destas doenças ; e fazer a pezar da preoccupaçaõ dos Marinheiros huma sangria , e mesmo duas no braço , princimente se os que estaõ atacados de defluxo forem moços , e robustos , se tiverem grandes dôres de cabeça , se a tosse fôr forte , se houver muita dificuldade em engulir , e em respirar , e sobre tudo se o pulso fôr cheio , e duro , e quando a febre durar mais de vinte e quatro horas .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Como o catarro tem por causa as mesmas que produzem o esquinço, o pleurisão, a peripneumonia, se o fluxo do peito tiver sido muito forte, então eu disse, quando ela foi violentada, combatê-la com os mesmos remédios que eu já indiquei, quando se tratou destas doenças; e fazer a pegada da preocupação dos marinheiros, mesmo que seja sangrenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Estas sangrias abbreviaõ notavelmente a duraçaõ do catarrho , e fazem , que os seus symptomas sejaõ menos incómmodos .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Essas sangrias abreviam notavelmente a duração do catarro, e fazem com que seus sintomas sejam menos desconfortáveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Beberaõ com abundancia da agoa melada , ou de alguma das tisanas indicadas na formula , ou receita do N. 5. ; tomaraõ todas as noites hum banha aos pés com agoa quente , conservar-se-haõ bem cobertos , naõ temaráô alimento algum sólido em todo o tempo , que durar a febre ; e depois se tiver cessado , naõ viviraõ senaõ de caldo , ovos frescos , ou outros alimentos faceis de digerir : á noite tomaráõ em forma de chá , huma tigela da infusaõ das flores de papoula , ou das folhas seccas de veronica macha ; o que facilitará a transpiraçaõ , e o suôr : a infusaõ das vulnerarias de Suiffia , e a das flores de sabugo seccas tomadas tambem em forma de chá , saõ tambem muito salutiferas .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Beba com abundância da agulha melada, ou de alguma das outras ervas indicadas na fórmula, ou tome a forma de chá sadio, ou seja, tome todas as noites um banho aos pés com agulha quente, conserve-se bem cobertos, não terá alimento algum sólido em todo o tempo, que dure a febre, e depois tome o caldo, na hora de viver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Estes pequenos remedios bastaõ ordinariamente para curar o defluxo em poucos dias .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Esses pequenos remédios geralmente são suficientes para curar o fluxo em poucos dias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se a pezar do uso destes remedios , ou por ter desprezado o faze-los , continuar o catarrho , e se fizer mais forte ; se a tosse , e a vigilia fatigarem , e enfraquecerem os doentes , entaõ he precizo , sem duvidar couza alguma , purga-los com o remedio do N. 14. ; e na tarde do mesmo remedio se lhes fará tomar hum oitava de theriaga desfeita em huma infusaõ das summidades de hysopo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Se a peça do uso destes remédios, ou por ter desprezado o fazer, continuar o chá, e se tornar mais forte; se a tosse, e a vigília cansarem, e enfraquecerem os doentes, então eu preciso, sem dúvida alguma, purgá-los com o remédio do No 14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Nos defluxos do cerebro alliviaõ muito os doentes , e procuraõ huma cura mais prompta os perfumes de agoa quente , em que se tenha feito ferver huma maõ chêa das mesmas summidades de hysopo ; estes mesmos defumadoiros se podem tambem empregar com utilidade nas outras especies de catarrhos de peito , e da garganta , e isto he melhor , do que as pastilhas de malvaisco , do que as que saõ feitas com enxofre , e que muitas outras golusinas , que fazem muitas vezes mais mal , do que bem , e que naõ saõ boas , senaõ para contentar a golodice , e empastar o estomago : porque se a tosse he entretida por huma certa quantidade de viscosidades incluidas no estomago , e nos intestinos , ou tripas , o que se conhecerá facilmente pela falta de appetite , pelos desejos de vomitar , algumas vezes mesmo por vomitos de materias , ou humores viscosos , que os doentes lançaõ com violentos ataques de tosse , pelo pezo , e pela oppressaõ , que elles sentem na regiaõ do estomago , entaõ he melhor , depois de se moderar a febre , e todos os outros symptomas de inflammaçaõ , faze-los vomitar com o remedio do N. 29. , do que entreter o mal empastando o estomago com todas estas golosinas .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Nos fluxos do cérebro aliviam muito os doentes, e procuram uma cura mais rápida os perfumes de agoa quente, que fazem ferver huma mais cheia das mesmas somas de hissopo, estes mesmos fumadores também se empregam com utilidade nas outras espécies de catarros de peito, e da garganta, e isso melhor. porque se a tosse é entretida por uma certa quantidade de viscosidades incluídas no estômago, e nos intestinos, ou intestinos, o que se conhece facilmente pela falta de apetite, pelos desejos de vomitar, às vezes mesmo por vômitos de matérias, ou humores viscosos, que os doentes lançam com violentos ataques de tosse, pelo quarto, pelo estômago.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Este vomitorio desembaraça o estomago , e as primeiras vias , evacua as materias viscosas , e indigestas , que serviaõ de conservar a tosse , e de causar a oppressaõ ; restitue a estas partes o tom , ou a elasticidade , que ellas tinhaõ perdido , reanima a vontade de comer , e cura as doenças como por milagre .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Este vômito limpa o estômago, e as primeiras vias, evacua as matérias viscosas, e indigestas, que serviam para conservar a tosse, e causar a opressão; restitui a essas partes o tom, ou a elasticidade, que elas tinham perdido, reanima a vontade de comer, e cura as doenças como por milagre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o vomitorio , que dissemos , naõ fôr sufficiente para evacuar todas as viscosidades , no dia seguinte se dará o remedio do N. 8., ou o do N. 14. , conforme os doentes forem mais , ou menos robustos .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Se o vômito, que dissemos, não for suficiente para evacuar todas as viscosidades, no dia seguinte será dado o remédio do número 8, ou o do número 14, conforme os pacientes forem mais, ou menos robustos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Este remedio sacudirá pelas dejecções , e descargas do ventre o resto das materias , de que o estomago , e os intestinos estavaõ cheios , e terminará promptamente o catarrho .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Este remédio vai sacudir através das dejeções, e descargas do ventre o resto das matérias, de que o estômago, e os intestinos estavam cheios, e logo terminará o catarro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>OBSERVAÇAM XCII</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>OBSERVAO XCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>De huma Senhora, a quem estando sobre parto faltou a evacuaçaõ do puerperio, & logo lhe deu febre acompanhada com muitos cursos, & de tudo a livrei dando lhe oito sangrias nos pés.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>De uma Senhora, a quem estando sobre parto faltou a evacuação do puerpério, e logo lhe deu febre acompanhada com muitos cursos, e de tudo a livrei dando-lhe oito sangrias nos pés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Huma das cousas que faz grande embaraço aos Medicos principiantes, he como se hão de aver quando saó chamados para alguma mulher parida, a quem achaõ com febre, camaras, & faltas de purgaçaõ lochial; porque como tem lido em varios lugares de Galeno, (I.) que avendo febre juntamente com camaras, naõ sangrem, porque se sangrarem, & as camaras continuarem, cahiráõ os doentes em tal fraqueza, que morrerão: à qual sentença definitiva se ajunta, que a natureza naõ poderá soportar duas evacuações juntas sem perigo da vida, isto os acovarda de maneira, que naõ ousaõ a sangrar; por outra parte estaõ vendo muitas vezes, que a febre he grande, & que para as grandes febres diz o mesmo Galeno, (2.) & a experiencia o mostra, que naõ ha remedio mais presentaneo, & efficaz que as sangrias; outra parte estaó vendo a falta da purgaçaõ do puerperio, & que esta por nenhum caminho se póde suprir melhor, que com as sangrias dos pés: daqui vem o embaraço, & perplexidade no que haõ de obrar; porque para naõ fazer remedio algum, sobre arguir ignoramcia, he impiedade, porque he deixar a natureza de desemparada, & entregue nas mãos do inimigo; para applicar purga, he impropria sobre parto, aonde ha muitas camaras acompanhadas com febre; para sangrar, ha grande temor de perder forças sem alivio da doença, & com risco da vida: para que pois o Medico se naõ veja embaraçado, & confuso, direi nesta Observaçaõ o que tenho feito em casos semelhantes com prospera fortuna.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Huma das coisas que envergonha os Médicos iniciantes, eis como se terão quando serão chamados para alguma mulher parida, a quem acham com febre, câmaras, e faltas de purgação loquial; porque como tem lido em vários lugares de Galeno, (I.) que tendo febre juntamente com câmaras, não sangram, porque se sangrarão, e as câmaras continuarão. à qual sentença definitiva se junta, que a natureza não poderá suportar duas evacuações juntas sem perigo da vida, isso os acovarda de maneira, que não ousa sangrar; por outro lado estão vendo muitas vezes, que a febre é grande, e que para as grandes febres diz o mesmo Galeno, (2.) & a experiência o mostra, que não há remédio mais presente, e sangra; aqui vem o embaraço, & perplexidade no que há de agir; porque para não fazer remédio algum, sobre argumentar ignorância, tenho impiedade, porque tenho de deixar a natureza de desamparada, & entregue nas mãos do inimigo; para aplicar purga, tenho imprópria sobre parto, onde há muitas câmaras acompanhadas de febre; para sangrar, há grande medo de perder forças sem risco da doença, & para que o Médico não se veja envergonhado, & confuso, direi nesta Observação o que tenho feito em casos semelhantes com prospera fortuna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Em 14 de Outubro de 1702. fuy chamado para visitar a senhora Dona Violante Casimira Saldanha a quem Deos tinha feito merce de dar hum filho desejado com ancja & conseguido com grande alegria; mas como as felicidades temporaes sejaó mui pensionadas, & cheyas de sobresaltos, ao gosto do feliz nascimento se seguio o temor, & tristeza, com humas camaras, febre, & falta da descarga devida ao puerperio: perturbàraõ muito estes symptomas naó só aos pays da recem nascida criança, mas aos patentes, &familiares da casa, porque tinhaõ ouvido dizer, que camaras sobre parto eraõ muito para temidas: para se desatar este no Gordonio, naó obstante que na visita da tarde tinha dado ordem a que pela manháa sangrassem a dita senhora, o naõ quizeraõ fazer sem que eu a visitasse primeiro, porque entendèraõ que os cursos era hum grande impedimento para a sangria; porèm como eu visse que a febre naó aliviava com os cursos, conheci que eraõ symptomaticos, & improporcionados com a idea da doença, procedidos de oppressaõ, & angustia da natureza; a qual tomou aquelle caminho errado, porque naõ se descarregou por onde convianha; mandei que logo logo se sangrasse no pè, porque a experiencia de muitos annos me tinha ensinado, que nenhum remedio era taõ efficaz, & seguro, em casos semelhantes, como as sangrias; naõ só porque com elas se suppre a falta da legitima, & devida descarga dos partos;  mas se diverte a natureza do erro que tem começado nos cursos: por tanto animosamente mandei abrir a vea, tendo por infallivel que as camaras se aviaõ de suspender: & não me enganei; porque ao mesmo passo que as sangrias se fóraó fazendo, foram as camaras aplacando, & a febre diminuindo até que huma, & outra cousa se desvaneceo totalmente, & ficou salva, & segura de huns symptomas que sempre a ameaçàraó grande perigo.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Em 14 de outubro de 1702. fui chamado para visitar a senhora Dona Violante Casimira Saldanha, a quem Deus tinha feito merce de dar um filho desejado com âncora & conseguido com grande alegria; mas como as felicidades temporais foram muito aposentadas, & cheias de sobressaltos, ao gosto do feliz nascimento se sigo o medo, & tristeza, com humas câmaras, febre, & falta da descarga de puvida Perturbaram muito esses sintomas não só nos países da recém-nascida criança, mas nas patentes, familiares da casa, porque eu tinha ouvido dizer, que câmeras sobre parto eram muito temidas: para desatar este no Gordonio, apesar de que na visita da tarde eu tinha dado ordem para que pela manhã sangrassem a dita senhora, o nada queria fazer sem que eu a visitasse primeiro, porque entendia que os cursos eram um grande impedimento para a sangria; porém como eu via que a febre não agia com os cursos, sabia que era impromptuário, sabia que era sintomático. Mandei que logo sangrasse no pé, porque a experiência de muitos anos me tinha ensinado, que nenhum remédio era tão eficaz, & seguro, em casos semelhantes, como as sangrias; não só porque com elas se supria a falta da legítima, & devida descarga dos partos; mas se diverte a natureza do erro que começou nos cursos: Então, animosamente, mandei abrir a veia, tendo por infalível que as câmeras se aviassem de suspender: E eu não me enganei, porque ao mesmo tempo que as sangrias se derreteram, foram as câmeras aplacando, e a febre diminuindo até que fumasse, e outra coisa se desvaneceu completamente, & ficou segura, & segura de huns sintomas que sempre a ameaçaram grande perigo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O fruto que desta que observaçaõ espero colhão os principiantes he, q  não se atemorizem com os cursos nas mulheres de sobre parto para deixarem de sangrar, se ouver febre, ou falta da purgaçaõ loquial; porque ainda que Galeno, (I.) & Avicenna (2.) digaõ que avendo camaras naõ sangremos; isto se entende, quando as camaras forem criticas, & indicadas da mesma doença ou capazes de vencer a enfermidade; mas quando forem symptomaticas, & taõ improporcionadas para vencer a doença, como saõ camaras para supprir apurgaçaõ dos loquios, não prohibe as sangrias, nem os varões doutos, que florecèraõ depois de Hippocrates & Galeno, as condemnaõ; antes as louvaõ muito, como se póde ver em Agostinho de Laurencio (3.) na disputa segunda fol. 51. o qual fallando das mulheres paridas, a quem saltar a purgação do parto, & lhe dão camaras, diz as seguintes palavras: As paridas, a quem falta  a purgação dos loquios, & tem camaras, se devem curar com as sangrias, tanto para supprir a falta do sangue devido ao parto, quanto para suspender as camaras symptomaticas, que danificaõ a natureza.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>O fruto que desta observação espero os iniciantes he, q não se amedrontem com os cursos nas mulheres de sobreparto para não deixarem de sangrar, se ouvirem febre, ou falta da purgação loquial; porque embora Galeno, (I.) & Avicenna (2.) diga que tendo câmaras não podemos sangrar; isto se entende, quando as mesmas câmaras são críticas, mas indicadas antes muito as elogiam, como se pode ver em Agostinho de Laurentius (3.) na disputa segunda fol. 51. o qual falhando das mulheres paridas, a quem saltar a purgação do parto, & lhe dão câmeras, diz as seguintes palavras: As paridas, a quem falta a purga dos loquios, & têm câmaras, devem ser curadas com as sangrias, tanto para suprir a falta do sangue devido ao parto, quanto para suspender as câmaras sintomáticas, que danificam a natureza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O mesmo diz Mercado (4.) pelas seguintes palavras: Todos os achaques, &  symptomas que sobrevierem às mulheres, que sobre parto sangram pouco, ou nada, se devem curar sangradoas nos pés copiosamemte, se  as forças o puderem sofrer.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>O mesmo diz Mercado (4.) com as seguintes palavras: Todos os achaques, & sintomas que sobrevêm às mulheres, que sobre o parto sangram pouco, ou nada, se devem curar as hemorragias nos pés copiosamente, se as forças puderem sofrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Zacuto Lusitano (5.) tam bem aconselha as sangrias dos pés para remedio das camaras, que tem por causa a falta da purgaçaó mensal ou loquial.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Zacuto Lusitano (5.) também aconselha bem as sangrias dos pés para remédio das câmaras, que tem por causa da falta da purgação mensal ou loquial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Valerio Martins (6.) refere oito paridas, a quem deraó camaras, & a todas curou com sangria dos pès, & certifica, que naó perigou alguma.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Valerio Martins (6.) refere oito paridas, a quem derramou câmeras, e a todas curou com sangria dos pés, & certifica, que não ameaçou nenhuma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Tambem eu posso certificar por mui seguro este modo de curar, porque depois que sou Medico, tenho livrado da morte a muitas paridas, às quaes faltou a purgaçaõ loquios, vendo juntamente febre, & copiososas camaras, & só com as sangrias as curei com felicidade, como consta pelo presente caso.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Também posso certificar com segurança este modo de curar, porque depois que sou médico, tenho libertado da morte muitas paridas, às quais faltou a purgação loquios, vendo juntamente febre, e copiosas câmaras, e só com as sangrias as curei com felicidade, como consta no presente caso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A outras paridas tirei da sepultura, naõ com sangrias; mas purgandoas cinco dias depois do parto: & como razões que tive para assim o fazer, foraõ duas urgentissimas, & como quero dizer em serviço do bem commum, &  para encaminhar aos Medicos principiantes, que curaõ em terras aonde nao ha outros Medicos com quem tomem conselho em caso taõ duvidoso.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>A outras paridas tirei da sepultura, não com sangrias; mas purgando-as cinco dias depois do parto: & como razões que tive para fazê-lo, foram duas urgências, & como quero dizer no serviço do bem comum, & para encaminhar aos Médicos iniciantes, que curam em terras onde não há outros Médicos com quem tomem conselhos em caso de serem duvidosos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A primeira razão por purguei a algũas paridas (estando taõ visinhas do parto) foy, porque lhes faltava totalmente a purgaçaõ loquial, & mandandoas sangrar, para supprir com a Arte, aonde faltava a natureza; em humas sahio soro, que não tingio a agua da bacia, em outras se naõ pode fazer uma sangria por este disforme inchação dos pés, & pernas.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>A primeira razão por que eu purguei algumas paridas (estando tão próximas do parto) foi porque elas faltavam totalmente a purgação loquial, e mandando-as sangrar, para suprir com a Arte, onde faltava a natureza; em humas sahio soro, que não tingiu a água da bacia, em outras não se pode fazer uma sangria dos pés por esta desformação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A segunda razaõ porque purguei (tão chegado ao parto) foy porque estas taes paridas (pelo muito barro, & depravados mantimentos que comèraõ em quanto andàraõ prenhadas) estaváo tam cheyas de cruezas, soros & viscosidades, que seria impossivel livrallas da morte sem as purgar, mayormente quando pela experiencia que o sangrador fez com a lanceta, constou que nas taes mulheres não avia sangue; mas só reynavão soros, & os humores cacochymicos, cuja verdadeira descarga se deve fazer por via de purga, & naõ de sangria, & por estas razões as purguei com felicidade.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>A segunda razão porque purguei (tão chegado ao parto) foi porque estas taes paridas (pela muita lama, e depravados suprimentos que comiam na pele) estavam tão cheias de cruezas, soros e viscosidades, que seria impossível libertar da morte sem purgá-las, principalmente quando pela experiência que o rei fez com a sangria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Nem as resoluções que tive para purgar a algumas paridas estando cinco dias depois do parto, forão tão desemparadas de padrinho, que nao tivessem em seu favor a authoridade do doutissimo Mercado, (7.) o qual fallando neste caso diz as seguintes palavras: Se a mulher sobre parto purgar pouco, ou nada, deve o Medico considerar, se na tal mulher ha mais sinaes de cruezas, &  humores cacochymicos, que enchimento de sangue, porque neste tal caso faltando a purgação do parto, ou sendo muito diminuta, ou avendo perigo urgente, deve purgar com medicamento que respeite uma natureza do humor peccante: nem deve o Medico acovardarse para dar a purga, avendo necessidade, & perigo, ainda que a mulher deite alguma migalha de purgaçaõ pela via do parto, com tanto que não seja sangue, porque se for outra qualquer casta de humor,  naõ deve ter medo de dar a purga, porque não poucas vezes temos visto, que muitas paridas morrèraõ, ou chegàraõ a grande perigo, porque os medicos medrosos naõ ousarão a purgallas, esperando a que totalmente parassem aquelles resquicios, ou pequenas nodoas da purgaçaõ,  pela qual razaõ (diz o Doutor Mercado) me parece conselho mais seguro; se a purgaçaõ loquial parecer que naõ  he bastante, receitar logo purga, porque he mais seguro purgar o humor, que for necessario para  remedio da doença, que contentandose com a pouca evacuação que que o natureza faz, dilatar o remédio, até que a natureza se deixe render aos assaltos do inimigo, ou se applique taõ tarde, que não aproveite.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Nem as resoluções que tive para purgar alguns partos estando cinco dias depois do parto, serão tão desamparadas de padrinho, que não tivessem em seu favor a autoridade do doutissimo Mercado, (7.) que falhando neste caso diz as seguintes palavras: Se a mulher sobre o parto purgar pouco, ou nada, deve o Médico considerar, se em tal mulher há mais sinaes de cruezas, & humores cacoquímicos, que enchimento de sangue, porque neste caso faltando a purgação do parto, ou sendo muito diminuta, ou tendo perigo urgente, deve purgar com medicamento que respeite uma natureza do humor pecaminosa: nem deve o Médico se acovardar para dar a purga, tendo necessidade, & perigo, mesmo que a mulher deite aquela migalha de purgaço pela via do parto, contanto que não seja sangue, porque se for outra qualquer casta de humor, não deve ter medo de dar a purga, porque não poucas vezes temos visto, que muitas paridas morrem, ou chegarão a mim pela grande perigo, se a purgação loquial parece que não tenho o suficiente, prescrever logo purga, porque tenho mais seguro purgar o humor, que seja necessário para remédio da doença, do que contentando-se com a pouca evacuação que a natureza faz, dilatar o remédio, até que a natureza se deixe render aos assaltos do inimigo, ou se aplique tão tarde, que não aproveite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>ARTE DE ENFERMEIROS para assistir aos enfermos, com as advertências precisas para a applicaçaõ dos remedios.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>ARTE DE Enfermeiros para assistir os doentes, com as advertências precisas para a aplicação dos remédios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO I.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>CAPTULO I.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Advertencias para o Enfermeiro.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Advertências para o Enfermeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>SE o Prelado vos eleger Enfermeiro , day-lhe logo o agradecimento de formar conceito da vossa capacidade para emprego de tanta importância, e merecimento , de cuja occupaçaõ pende a saude da alma , e corpo do enfermo , credito da nossa Religião, e instituto della.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Se o Prelado te eleger Enfermeiro, eu lhe dou logo o agradecimento de formar conceito de sua capacidade para emprego de tanta importância, e mérito, de cuja ocupação depende a saúde da alma, e corpo do doente, crédito de nossa Religião, e instituto della.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Haveis de advertir , que o Enfermeiro , que he caritativo, considera que o que faz ao enfermo, Deos o recebe, estima , e remunera.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Vocês devem notar que o Enfermeiro, que sou caritativo, considera que o que faz ao doente, Deus o recebe, o estima, e remunera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Deve haver producçaõ generica de amor entre o enfermo, e Enfermeiro ; que se a alma está mais onde ama , que onde anima , como disse Santo Agostinho; e o amor transforma o amante no amado, como disse Seneca: segue-se que mais deve padecer o Enfermeiro a impulsos da caridade , com que o ama , que o enfermo pela aptidaõ da queixa, que padece ; donde se verifica , que o enfermo, que padece , póde as queixas soffrer ; mas o Enfermeiro abrazado em amor de caridade naõ as póde tolerar ; porém fazendo o que póde, satisfaz ao que deve: applica-Ihe os remedios : dá-lhe alentos : se grita anciado, acode-lhe vigilante: naõ dorme, se o enfermo naõ socega ; e assim em perpetuo labyrinto naõ admitte tregoas ao descanço , atè que o enfermo naõ tenha alivio , em cuja acçaõ cumpre com toda a Ley de Deos.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Deve haver uma produção genérica de amor entre o doente e o Enfermeiro; que se a alma está mais onde ama, que onde anima, como disse Santo Agostinho; e o amor transforma o amante no amado, como disse Sêneca: O que se segue é que o Enfermeiro mais deve sofrer a impulsos da caridade, com quem o ama, que o doente pela aptidão da queixa, que sofre; onde se verifica, que o doente, que sofre, pode sofrer as queixas; mas o Enfermeiro abraçado em amor de caridade não pode tolerá-las; mas fazendo o que pode, satisfaz o que deve: Aplique-lhe os remédios: Dê-lhe um fôlego: Se gritar, fique de olho nele. não dorme, se o doente não descansar; e assim em perpétuo labirinto não admite tregos ao descanso, até que o doente não tenha alívio, em cuja ação cumpre toda a Lei de Deus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Assim o escreveo Saõ Paulo aos Romanos, dizendo: Quem ama ao proximo , toda a Ley encheo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Assim escreve São Paulo aos Romanos, dizendo: Quem ama ao próximo, enche toda a Lei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>E nestas amorosas assistencias dos enfermos vos naõ haveis de queixar, mas sim louvar a Deos, como fazia o Santo Job nas suas tribulações.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>E nestas amorosas assistências dos enfermos vocês não vão se queixar, mas sim louvar a Deus, como fazia o Santo Jó em suas tribulações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Assim que o enfermo chegar, o recebereis com agrado , dando-lhe animo.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Assim que o doente chegar, vocês o receberão com prazer, dando-lhe encorajamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se quando o enfermo chegar, vier com crescimento , cezaõ , ou galico , naõ usareis com estes do costume de lhe lavar os pés, (que jà sabeis se lhe beijaõ depois de lavados ) nem lhe mandareis cortar o cabeillo atè naõ estar livre deste impedimento ; mas huma, e outra cousa se lhe ha de fazer logo que esteja capaz, para que se naõ falte a esta taõ meritória acçaõ de caridade.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Se quando o doente chegar, vier com crescimento, cessação, ou galico, não usareis com estes o costume de lavar os pés, (que já sabeis se lhe beijarão depois de lavados) nem lhe mandareis cortar o cabelo até não estar livre deste impedimento; mas fuma, e outra coisa se lhe fará logo que seja capaz, para que não lhe falte a vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Depois de o deitares na cama, lhe advertireis (como he costume) se prepare para se confessar, e commungar, que he obrigaçaõ precisa da nossa Constituiçaõ; razaõ, por que os Médicos dos nossos Hospitaes vivem descançados de incorrerem na determinaçaõ do Concilio Lateranense, que o Medico sob pena de interdicto ab ingressu Ecclesiae , advirta ao enfermo , que logo se confesse ; e o Papa Saõ Pio V. que passados trez dias de enfermidade na cama, os Médicos os naõ visitem , sem primeiro estarem os enfermos confessados , e lhe constar por fé do Confessor; e que esta Constituiçaõ fosse perpetua, e permanente sem prescripçaõ.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Depois de o deitarem na cama, o avisarão (como tenho costume) se prepare para se confessar, e comuniquem, que tenho obrigação permanente de nossa Constituição; razão, por que os Médicos de nossos Hospitais vivem descalços de incorrer na determinação do Concílio Lateranense, que o Médico sob pena de proibido ab ingressou Ecclesia Papae, se advir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>108</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>108</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Todos os dias de manhã, e tarde fareis visita particular aos enfermos, principalmente aos que tiveres de mayor cuidado , para dares ao Medico informaçaõ do que lhe fizestes , e como tem passado ; porque alguns enfermos naõ sabem dar a indicaçaõ necessaria; e o Medico, quando os enfermos saõ muitos, naõ se póde lembrar do que a todos tem mandado fazer: o que vós remediais com muita facilidade, assim pela informaçaõ , que delles tendes adquirido , como pela lembrança , que na taboa da visita tendes formado, sem a qual naõ visiteis nunca com o Medico , ainda que os enfermos sejaõ poucos, que naõ he razaõ que a vossa memória seja fiadora da vida, ou saude do enfermo.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Todos os dias de manhã, e à tarde, fareis visita particular aos doentes, principalmente aos que tendes mais cuidado, para dar ao Médico a memória do que lhe fizestes, e como passou; porque alguns doentes não sabem dar a indicação necessária; e o Médico, quando os doentes são muitos, não se pode lembrar o que a todos tem mandado fazer: o que vós remediais com muita facilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Os remedios , que applicares aos enfermos, sejaõ só pela vossa maõ , e a tempo ; que as medicinas dilatadas se privaõ do nome de remedio, disse Quintilliano.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Os remédios, que você aplica aos doentes, seja somente por sua mão, e a tempo; que os remédios dilatados sejam privados do nome de remédio, disse Quintilliano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Nunca deis remedio bebido sem primeiro ser mechido, e agoa ao enfermo para lavar a boca, por evitar o perjuizo de o lançar fóra.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Nunca dê remédio bebido sem primeiro ser mexido, e agoine o doente para lavar a boca, por evitar o prejuízo de jogá-lo fora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Tende muito , e muito particular cuidado nos numeros , que trazem os medicamentos , para que naõ haja equivocaçaõ na applicaçaõ delles ; e naõ só nos numeros tereis esta vigilância , mas também na cor, cheiro, e qualidade delles; porque nas boticas succede muitas vezes porem-se os numeros errados , como eu tenho varias vezes experimentado, e outros muitos Enfermeiros , o que se tem remediado com a experiencia dos remedios.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Tenha muito, muito cuidado nos números, que trazem os medicamentos, para que não haja equívoco na aplicação das mesmas; e não só nos números vocês terão essa vigilância, mas também na cor, cheiro, e qualidade das mesmas; porque nas lojas muitas vezes se põem os números errados, como eu tenho várias vezes experimentado, e outros têm sido Enfermeiros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Naõ deis de comer ao enfermo sem terem passado duas horas depois de ter tomado algum medicamento , naõ sendo purgante ; que se for purgativo , necessita de mais tempo, conforme a qualidade delle.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Você não dá de comer ao doente sem ter passado duas horas depois de ter tomado algum medicamento, não sendo purgante; que se for purgativo, precisa de mais tempo, conforme a qualidade dele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Naõ dareis medicamento algum sem terem passado quatro horas depois de o enfermo ter comido , nem lhe dareis de jantar cedo, se tiver tomado a purga tarde.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Vocês não darão nenhum remédio sem quatro horas depois que o doente comer, nem lhe darão o jantar cedo, se ele tiver tomado a purga tarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Naõ façais a vontade a nenhum enfermo, se entenderes he contra a sua saude : day-lhe o que melhor vos parecer , e naõ lhe deis o que vos pedir.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Não façam a vontade a nenhum doente, se entenderem tenho contra a sua saúde: dê-lhe o que lhes parecer melhor, e não lhe deem o que lhes pedir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Assim que repartires o comer , reparti os Religiosos (como he costume) pelos enfermos de fastio , para que os façaõ comer.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Assim que repartir a comida, dei os Religiosos (como eu costumo) aos doentes de fascínio, para que os façam comer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Tende grande cuidado de saber a que enfermos lhe entra o crescimento, ou cezaõ antes de jantar, para que o naõ apanhe em jejum, dando-lhe de comer trez horas antes.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Tenha muito cuidado para saber a que doentes entra o crescimento, ou parar antes do jantar, para que o não apanhe em jejum, dando-lhe de comer três horas antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Fazey estudo particular, para que nenhum enfermo vos morra sem todos os Sacramentos ; que os Médicos descançaõ este cuidado na experiencia , e vigilância dos nossos Enfermeiros , os quaes tem por injuria, que o Medico lho advirta.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Fazey estudo particular, para que nenhum doente os morra sem todos os Sacramentos; que os Médicos descansem este cuidado na experiência, e vigilância de nossos Enfermeiros, os quais tem por injúria, que o Médico lhes avise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Quando algum enfermo estiver moribundo, dareis parte ao Prelado, para que lhe mande fazer vigia de dia , e de noite pelos Religiosos, como he costume.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Quando algum doente estiver morrendo, vocês darão parte ao Prelado, para que o mande vigiar de dia, e de noite pelos Religiosos, como eu costumo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO VII.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>CAPTULO VII.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Fluxo de sangue como se lhe ha de acudir na ausencia do Cirurgião.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Fluxo de sangue como deve acontecer na ausência do Cirurgião.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>SE o enfermo estiver gordo, e naõ estiver evacuado por sangrias, comer, e dormir bem, e o fluxo de sangue naõ for demasiadamente grande , naõ lhe façais remedio algum.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Se o doente estiver gordo, e não estiver evacuado por sangria, comer, e dormir bem, e o fluxo de sangue não for muito grande, não lhe façam remédio algum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o enfermo for fraco, naõ dormir, e estiver evacuado , lhe fareis alguns remedios depois de ter lançado quasi huma tigela de sangue, sendo pelo nariz.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Se o doente for fraco, não dormir, e estiver evacuado, vocês farão alguns remédios depois de ter jogado quase uma tigela de sangue, sendo pelo nariz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Primeiramente lhe atirareis ao rosto com hum pucaro de agua , sem que o enfermo o veja lançar, e com a violência , que puder ser, de fórma , que lhe apanhe todo o rosto, e testa, cujo remedio se póde repetir por trez , ou quatro vezes , com interpolação de tempo entre huma , e outra vez ; e naõ bastando este remedio, lhe mandareis meter os testiculos em agoa bem fria, ou panos molhados nelles varias vezes repetidos.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Primeiro vocês atirarão no rosto dele com um pouco de água, sem que o doente o veja lançar, e com a violência, que possa ser, de forma, que lhe pegue todo o rosto, e testa, cujo remédio se pode repetir por três, ou quatro vezes, com interpolação de tempo entre huma, e outra vez; e, não bastando esse remédio, eu lhe envio os testículos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Também saõ boas as ligaduras em os braços, e pernas; e naõ querendo parar, vereis de que venta corre o sangue: se for pela direita , lhe lançareis huma ventosa grande em sima do figado, o qual está hum dedo por baixo das costellas mendozas da parte direita; e se sahir pela venta esquerda, lhe lançareis a ventosa em sima do baço , o qual está da parte esquerda, hum dedo por baixo das mesmas costellas.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Também saem boas as ligaduras nos braços, e pernas; e não querendo parar, vereis de que venda corre o sangue: se for pela direita, lançareis-lhe uma grande ventosa em sima do fígado, que está um dedo por baixo das costelas mendosas do lado direito; e se sair pela venda esquerda, lançareis-lhe a mesma ventosa em sima do baço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o enfermo lançar o sangue por ambas as ventas copiosamente, lhe lançareis duas ventosas, huma no figado, e outra no baço, e as repetireis atè que pare o fluxo de sangue.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Se o doente lançar sangue por ambas as vendas copiosamente, vocês lançarão duas ventosas, fumaça no fígado, e outra no baço, e vocês as repetirão até que pare o fluxo de sangue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Também saõ boas nas barrigas das pernas, e nos musculos pela parte de dentro bastante tempo.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Também são boas nas barrigas das pernas, e nos músculos por dentro bastante tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Também he bom remedio disparar huma espingarda junto do mesmo enfermo , sem se lhe advertir antes.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Também tenho um bom remédio para atirar uma espingarda junto ao mesmo doente, sem aviso prévio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se estes remedios naõ aproveitarem , tomareis duas claras de ovos com duas onças de pós restrictivos, e meya onça de gesso, com algumas teas de aranha ; e depois de bem batido tudo isto, de fórma, que fique em cataplasma , nem grossa, nem delgada, mas de boa subsistencia, lha poreis na testa, e fontes em humas planxetas de estopas finas , e das mesmas fareis humas mechas, que molhadas na mesma cataplasma, metereis pela venta, ou ventas, donde sahir o sangue , recomendando ao enfermo lhe naõ bula, nem se disponha a tussir.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Se estes remédios não aproveitarem, tomareis duas claras de ovos com duas onças de pós restritivos, e meia onça de gesso, com algumas teias de aranha; e depois de bem batido tudo isso, de forma, que fique em cataplasma, nem grossa, nem magra, mas de boa subsistência, a venderei na minha testa, e fontes em fumaça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o fluxo do sangue for pela boca , lhe lançareis as ventosas na fórma jà referida ; e naõ parando, dareis ao enfermo de quarto a quarto de hora huma colher de xarope de rosas secas , ajuntando-lhe pós de terra sigillada, e bolo armenio, e alguns de coral preparado ; e aos que lançaõ sangue pelos narizes , se lhe póde dar este mesmo remedio.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Se o fluxo de sangue for pela boca, vocês lançarão as ventosas na forma já referida; e não parando, vocês darão ao doente de quarto a quarto de hora uma colher de xarope de rosas secas, juntando-lhe pós de terra selada, e bolo armênio, e alguns de coral preparado; e aos que lançarem sangue pelos narizes, se mesmo este puder ser dado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o fluxo de sangue for em ferida , que tenha algum enfermo, antevendo a dilaçaõ, que póde haver em vir o Cirurgião , fareis com grande diligência lexinos de estopas , e ao mesmo tempo mandareis bater claras de ovos, com pós de bolo armenio , de rosas , e de sangue de Drago, meya onça de cada cousa, e alguns pós de incenso ; e depois de estar tudo bem batido, molhareis hum lexino, e com elle tapareis a vea , e o apertareis com o dedo mostrador , e lhe hireis pondo os mais lexinos molhados na cataplasma , apertando-os sempre, e em sima lhe poreis humas planxetas, molhadas no mesmo, e apertareis a ferida muito bem com huma atadura.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Se o fluxo de sangue for em ferida, que tenha algum doente, antecipando a demora, que pode haver em vir o Cirurgião, fareis com grande diligência lexinos de estopas, e ao mesmo tempo farei batê-las claras de ovos, com pós de bolo armênio, de rosas, e de sangue de Drago, meia onça de cada coisa,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se estes remedios naõ obrarem, carregareis a ferida com pós de pedra hume queimada , com teas de aranha , e em sima huma estopada de claras de ovos.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Se estes remédios não funcionarem, vocês carregarão a ferida com pó de pedra queimada, com teias de aranha, e em sima fumada de claras de ovo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Também saõ boas as raspas de Cortidores , e pós de alecrim ; e depois de lhe fazeres todos estes remedios, lhe poreis panos de vinagre aguado bem frio em sima da ferida.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231213T142013Z">
+        <seg>Também saem boas as raspas de Cortadores, e pós de rosmarino; e depois de lhe fazerem todos estes remédios, lhe colocarão panos de vinagre aquado bem frio em grão da ferida.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

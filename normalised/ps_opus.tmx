@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Python Script" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Avizo a V Pte q Noticie aos inquizidores q eu tenho dado a alma ao diabo, e q dezespero e aRenego de Ds Padre de Ds filho, e de Deos espyrito Santo, e de qtos Santos tem o Ceo; e q somte venero, amo, e adoro a Lucifer por Senhor de minha vida, e alma:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Aviso a V Pte q Notícia aos inquiridores que eu tenho dado a alma ao diabo, e q desespero e aRenego de Ds Padre de Ds Filho, e de Deus Espírito Santo, e de qtos Santos tem o Céu; e q é venero, amo, e adoro a Lúcifer por Senhor da minha vida, e alma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e isto Repito, digo, e comfesso todos os instantes sem temor algũ desse Ds a qm athe gora Cegamte adorava pa meu mal;</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e isto Repito, digo, e confesso todos os instantes sem medo algum daquele Ds a quem o gora Cegamte adorava para o meu mal;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e porq desta mudança foy cauza o Pe Mel thomas, elle tenha o premio q dos infernaes spiritos espero</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e porq desta mudança foi causa o Pe Mel Thomas, ele tenha o prêmio q dos infernais espíritos espero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>faso esta deliga por papel, porq a prizão me impozibilita pa a fazer eu proprio; e não Remeto as noticias a inquizidores algũ porq quero q seja V Pte obrigado a saber os Comfisados q tem, e a qm os emtrega; q infalivelmte me parese q está obrigado a dar pte deste cazo ao santo oficio,</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>faso está deliga por papel, porq a prisão me parece impossibilta pa a fazer eu próprio; e não Remeto as notícias a inquisidores alg porq quero que seja V Pte obrigado a saber os Comfisados que tem, e a quem os emtrega; q infalivelmte me parese q está obrigado a dar pte deste caso ao santo ofício,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e qdo o não faça prontisimamte creminarei a V Pte por consentidor das indozlencias com q o Pe Mel Thomas machado domina a Caza de Mariana da Silva, sem o atemorizar a Vista de Coatro Clerigos q por semelhantes Couzas Sahirão este a-cto de fé.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e quando o não fizer preparsimamte creminarei a V Pte por consentidor das indolências com quem o Pe Mel Thomas machado domina a Caça de Mariana da Silva, sem o atemorizar a Vista de Quatro Clérigos q por semelhantes Couzas Sahirão este ato de fé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Não Repare na dezordem da escripta, q a pena com q fico não dá mais lugar q sertificarlhe q qqm dis isto he</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Não Repare na desordem da escrita, q a pena com q fico não dá mais lugar q sertificar-lhe qqm dizes isto é isto é</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Antonio da Cruz e Silva</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Antonio da Cruz e Silva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Meu padrinho e mto meu Snor</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>O meu padrinho e o meu Snor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>q Vm Logre saude</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>q Vm Logre saúde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>mto filis o estimarei Como quem a todos Vmces [...] he tão obrigada e devedora pella grandioza esmola q Vmces fizerão a Meu Irmão e pellos continos favores que de Vmces sempre resebemos</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>mto filis o estimarei Como quem a todos Vmces [...] é tão obrigada e devedora pela grande esmola que Vmces farão a Meu Irmão e pelos contínuos favores que de Vmces sempre recebemos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>tudo seja pello amor de Ds</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>tudo seja pello amor de Ds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Meu padrinho e Snor hũa aflissão em q me vejo me obriga a fazer esta obrigada de meus confesores</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>O meu padrinho e Snor ha aflição em que me vejo me obriga a fazer esta obrigação dos meus confessores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>sabera Vm em Como eu estive no Convento da esperanssa de Abrantes</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>sabera Vm em Como eu estive no Convento da esperansa de Abrantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e estando na Conpanhia de duas freiras estas tais tendo notisia q lhe mudarão dali o Capellão e sendo suas particulares amigas so juntarao Com outras duas religiozas e fiandosse mim fizerão huma pineira pra saberem se o Capellão havia de ficar ou não</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e estando na Conpanhia de duas freiras estas tais tendo notícia q lhe mudarão de lá o Capelão e sendo suas particulares amigas só o juntarão Com outras duas religiosas e fiando-se eu farão uma pineira para saberem se o Capelão havia de ficar ou não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>eu confesso q fui buscar a pineira e quis asistir pa ver Como se voltava a pineira e sem lhe bolirem q hera o sinal q dava pa dizer sim o não</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>eu confesso q fui buscar a pineira e quis assistir para ver Como se voltava a pineira e sem lhe bolirem q era o sinal q dava dizer sim o não</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>mas não vi com medo de q me não quizesem asolver</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>mas não vi com medo de me não quisessem resolver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>as q nesta ocasião a fizerão são as seguintes Me dona Ma madalena dona he a qual he agora abadessa e a Me Antonia Ma e a Me Catherina dos Saraphns e a Me violante Ma de jasus</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>As que nesta ocasião a farão são as seguintes Me dona Madalena dona é a qual é agora abadessa e Me Antonia Ma e a Me Catherina dos Saraphns e a Me violante Ma de jasus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>estas são q eu sei q a fizerão mas suponho não continuam</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>estas são q eu sei que a farão mas suponho que não continuam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e isto havera dois annos pouco mais e menos</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e isto haverá dois anos pouco mais e menos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>tambem A Me Joanna Catherina do mesmo Convento se gabou q a fizera</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>também Me Joanna Catherina do mesmo Convento se gabou que a fizera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e eu Snor padrinho, tenho prezunssão de q mtas tem feito isto</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e eu Snor padrinho, tenho presunção de q mtas tem feito isto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>asim pesso a Vm pello amor de Ds q se governe isto no milhor modo q puder ser e pa q eu fique descanssada de q Vm esta entregue desta</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>assim a Vm pelo amor de Ds q se governe isto no melhor modo q possa ser e pa q eu fique descansada de q Vm está entregada desta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>espero q Vm me Responda Remetendo a Resposta a Snra dona Lionor minha Snra</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Espero que Vm Me Responda Remindo a Resposta a Snra dona Lionor minha Snra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>eu fico pedindo a Ds gde a Vm mtos anos</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>eu estou pedindo a Ds gde a Vmtos anos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Sardoal dezasseis de marso mil e setesentos e vinte e dois</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Sardoal dezesseis de março mil e sessenta e vinte e dois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>de Vm Afilhada e menor Criada</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>de Vm Afilhada e menor Criada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Joanna da Me de Ds</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Joanna da Me de Ds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Meo amo e Sr</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Meo amo e Senhor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ainda q VM me não quer dar o alivio de suas novas a minha amizade não pide tal discuido e assi lembresse VM de mim [...] com novas suas q bem sabe q não tem qm lhas dezeje com mais veras</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Ainda que VM me não quer dar o alívio das suas novas a minha amizade não pede tal discutido e assim lembrasse VM de mim [...] com novas suas q bem sabe q não tem qm lhes dezeje com mais verdadeiras verdades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Sabado nove deste mes Domingos de Moraes Clerigo em minoribus nal de Vinhais veyo a esta casa e entre praticas q tivemos me dice, q hũ Rapaz chamado Sebam filho do Capam Franco Roiz da ditta va de Venhais perguntara a hũ Rapaz pequeno filho de Manoel Roiz Cané Christão Novo q fazião as noites em sua casa;</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Sábado nove deste mês Domingos de Moraes Clerigo em minoribus nal de Vinhais vem a esta casa e entre praticas que tivemos me diz, que Rapaz chamado Sebam filho do Capam Franco Roiz da dita vai de Venides perguntara a h Rapaz pequeno filho de Manoel Roiz Cané Christão Novo q fazem as noites em sua casa;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>[...] o tal Rapaz Respondera, q seu pay dizia Missa, [...] Manoel Roiz Pechuga de alcunha christão novo lhe ajudava, e q Pascoal Ramos tãobem christão novo q tomava sobrepeliz, e q ao dito Rapaz o punhão sobre o altar, e q sua May asoutava hũ santo christo com hua corda</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>[...] o tal Rapaz Respondera, q seu pay dizia Missa, [...] Manoel Reiz Pechuga de apelido cristão novo lhe ajudava, e q Pascal Ramos tão cristão novo q tomava sobrepeliz, e q ao dito Rapaz o punho sobre o altar, e q sua May asoutava h santo Cristo com uma corda com uma corda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>E no mesmo dia de tarde veyo tãobem a minha casa o pe gco Frco de Amal nal de Vinhais e perguntandolhe eu pello sobredito me Respondeo, q era tanto verde, q dizendolhe tres Mulheres o Referido prendera o Rapaz em sua casa, e lhe confessara tudo o narrado,</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>E no mesmo dia de tarde vejo também a minha casa o peco Frco de Amal nal de Vinhais e perguntando-lhe eu pello sobredito me Respondeo, q era tão verde, q dizendo-lhe três Mulheres o Referido havia prendido o Rapaz em sua casa, e lhe confessara tudo o narrado,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e supposto q disto se terá dado pte eu o faço a VM por não ficar com escrupello</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e suposto q disto se terá dado pte eu o faço a VM por não ficar com escrúpulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>aqui fico ás ordens de VM pa o q me quizer mandar com gde vontade</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>aqui fico às ordens de VM pa o q me quis mandar com gde vontade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ds gde a VM</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Ds gde a VM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Prada 10 de Julho de 1712</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Prada 10 de julio de 1712</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Mayor Amo e Servidor de VM</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Maior Amo e Servidor de VM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Franco de SáMzes</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Franco de SáMzes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Meu filho todo do meu Coracão</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Meu filho todo o meu Coração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>não te poso expeLicar o sentimento Com que estou por tu te hires emvora mas Como tenho a Serteza que tu veis Logo por iso me fica aLguma ConsoLacão</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>não te posso expor o sentimento Com que estou por ti te ires emvora mas Como tenho a Serteza que tu vês Logo por isso me fica aAlgo Consolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>tu bem saves que eu não tenho a nimgem senão a ti e so a ti he que amo e so a ti he que quero pois so tu hes o meu amor</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>tu bem sabes que eu não tenho a ningem senão a ti e só a ti é que amo e só a ti é que quero pois tu é o meu amor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>agora baste emvora eu fico So e Com mtas saudades do meu menino</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Agora baste emborraça eu fico só e Com mtas saudades do meu menino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>olha se por La me podes perder o amor pois eu te sou firme e hei de Ser e se Cuidas houtra couza inganaste pois tu ainda não saves bem o Coanto eu te quero</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>olha se por La me podes perder o amor pois eu te sou firme e é de Ser e se Cuidas houtra coisa enganaste pois tu ainda não sabes bem o Coanto eu te quero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>adeos meu rico marido</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Adeus, meu rico marido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>pasa bem por La que eu aqui fico sentindo esta auzensia pa mim tam Custoza</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>passa bem por A que eu aqui fico sentindo esta auzensia para mim tão Custoza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>aseita agora mtas saudades do teu Coninho que fica Com mtas saudades do seu menino</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>aseita agora mtas saudades do teu Coninho que fica Com mtas saudades do seu menino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>as tuas maminhas tambem te mandam mtos abrasos e adeos meu menino emthe a bista pois dezejarei Seja Logo pa meu aLivio</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>as tuas mamas também te mandam mostos abrasados e adeus meu menino emthe a vista pois dezejarei Seja Logo para o meu aLivio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>adeos</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>adeos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>aseita desta tua molher mtos abrasos e mtos beiginhos</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>aseita desta tua molher mtos abrasados e mtos beizinhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Desta que deveras te quer e ama emthe a morte</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Desta que verdadeiramente te quer e ama emthe a morte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Meu Marido todo o meu bem</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>O meu marido todo o meu bem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>não te poso expeliCar as lagrimas que Choro Com saudades tuas pois me parese que ha hum anno que te não bi</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>não te poso expeliCar as lágrimas que Choro Com saudades tuas pois me pareça que há um ano que te não bi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>em Cegundo lugar desejarei esta te aChe Com saude pois he o que mais te desejo</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>em Cegundo lugar desejarei esta te aChe Com saúde pois é o que mais te desejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>eu fiCo boa pa te dar gosto</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>eu fiCo boa pa te dar gosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>meu filho Ca resevi a fita</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>meu filho Ca ressevi a fita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>pois te Comfeso que o estimei mto mas mto mais a havia de estimar se fose mto mais pois intam Conhesia que tu tinhas siumes de mim</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>pois te Confesso que o estimei mto mas mto mais a havia de estimar se fosse mto mais pois inctam Conhecia que tu tinhas simes de mim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>mas Como ma mandastes bermelha he serto que estas em guera Comigo</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>mas como me mandastes vermelha é serto que estas em guerra Comigo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>tu bem saves que eu sou mto tua e que não amo a mais nimgem senão a ti pois so tu hes o meu bem e todo o meu amor</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>tu bem sabes que eu sou tua e que não amo a mais ningem senão a ti pois sou tu é o meu bem e todo o meu amor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>meu menino quem me dera ja berte pa te dar mtos abrasos e mtos beiginhos e meterte a linguinha toda nesa boquinha</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>meu menino quem me dera já berte pa te dar mtos abrasados e mtos beijinhos e meter-te a linguinha toda nesa boquinha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>as tuas maminhas todas tuas e de mais nimgem não so sam tuas e tudo Coanto he meu he so pa o meu marido pois so a ele quero e so a ele amo</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>as tuas mamas todas tuas e de mais ningem não são tuas e tudo Quanto é meu é meu pai o meu marido pois só a ele quero e só a ele amo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>vejo o que me dizes que te diseram que eu tinha alugado humas Cazas e tambem do torto de ponte</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>vejo o que me dizes que te disseram que eu tinha alugado umas Caças e também do torto de ponte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>saveras que tudo he huma pouCa de mentira pois eu não sou Capas de te inganar</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Sabrás que tudo é uma pouca de mentira porque eu não sou Capas de te enganar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e te digo que tudo he mentira isto o podes querer Como tua molher que sou</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e te digo que tudo é mentira isto o podes querer Como tua molher que sou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>não te fies [...] em quem me quer mal pois te dezega dizer Couzas pa que tu não tornes a falar Comigo nem querem que tu mandes nada</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>não te confies [...] em quem me quer mal pois te dezega dizer Cousas pa que tu não tornes a falar Comigo nem querem que tu mandes nada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>vejo o que me dizes que neste Coreio me mandas huns sapatos bonitos</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Vejo o que me dizes que neste Coréio me mandas uns sapatos bonitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>eu hei de estimar mto por serem da tua mam</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Eu vou estimar mto por serem da tua mãe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>tambem vejo o que me dizes que me queres mandar os pratos e as mais Cozas</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>também vejo o que me dizes que me queres mandar os pratos e as mais Coisas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Rec reComendo oo home da lanCha que não de iso senão a preta ou [...] a mim</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Rec Recomendando o home da lanCha que não de isso senão a preta ou [...] a mim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>que não soseda Como da outra bes</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>que não soseda Como da outra bes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>tu reComenda tambem ao Coreio que não de a Carta senão a preta</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>tu recomenda também ao Coréio que não de a Carta senão a preta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>adeos meu filho</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Adeus meu filho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>adeos meus amores</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Adeus meus amores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>aseita mtos abrasinhos as tuas maminhas e da tua boquinha perninhas pentilhinho e do teu Coninho que esta tam goardadinho so pa o meu Rico marido todo do meu CoraCão</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>asseita os meus abrasinhos as tuas mamas e da tua boquinha pernas pentinha e do teu Coninho que estão tão goardadinho só para o meu Rico marido todo do meu CoraçãoCão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>adeos meu filho</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Adeus meu filho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>toma hum beiginho e hum abrasinho que to manda a tua molher</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Toma um bebizinho e um abrasinho que te mande a tua molher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Desta que tam deveras te ama e ha de amar a tua</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Desta que tão verdadeiramente te ama e há de amar a tua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Maria gabriela</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Maria Gabriela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>J M J</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>J J J J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>M amado Sr</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>M amado Sr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Custo, saude e paz em o sor</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Custo, saúde e paz no Soro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>sendome precizo chegar a esta caza aonde me dizem q VM estivera, senti m não o achar nella, porq tinha q lhe com-unicar materias de importancia;</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>sendo-me preciso chegar a esta caça onde me dizem que VM estivera, sentim m não o achar nela, porque tinha q lhe comunicar matérias de importância;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>mas suposta a sua retirada terei por hora pa-ciencia;</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>mas suposta sua retirada terei por hora paciência;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e só se me offerece dizerlhe por letra, q em Beja se espera q VM vá pregar hũa quaresma q lá lhe está aceita na boa fé de q não tinha nisso duvida;</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e só se me oferece dizer-lhe por letra, q em Beja se espera que VM vá pregar ha quaresma q lá lhe está aceita na boa fé de q não tinha nisso dúvida;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e assim espero q não falte a isto, e despois, da-lo q por Mis-sionar ali o Pe Fr Afonso, não tenha VM lu-gar de fazer logo o mesmo como estava deter-minado;</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e assim espero q não falte a isto, e depois, dá-lo por Missionar ali o Pe. Fr. Afonso, não tenha VM lu-gar de fazer logo o mesmo como estava deter-minado;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>bem sabe q em Moura me empenhou o Vigo da vara com toda a instancia pa q lhe desse missão áquella terra;</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>bem sabe q em Moura me empenhou o Vigo da vara com toda a instância pa q lhe desse missão naquela terra;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e assim fio do seu zelo, q não faltará a isto, satisfazendo primo á quaresma q roca á Beja;</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e assim fio do seu zelo, q não faltará a isto, satisfazendo primo à quaresma q rocha à Beja;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>porq aliás, sera m sensivel ali a sua falta, e eu mais q ninguẽ o sentirei;</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>porque aliás, será mais sensível ali a sua falta, e eu mais ninguém o sentirei;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>o q não prezumo, não só pela pontu-alide, com q VM obra no q o Prelado lhe ordena, mas tambem porq estou certo de q não se esqueçe do qto o meu affecto lhe merece;</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>o q não pressumo, não só pela pontu-alide, com q VM obra no q o Prelado lhe ordena, mas também porq estou certo de q não se esqueça do qto o meu afeto lhe merece;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>á cuja pessoa Ds gde</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>à cuja pessoa Ds gde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Evora em 12 de Fevero de 1749</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Évora em 12 de Fevereiro de 1749</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Teu ir e servo affectuozisso</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>O Teu ir e servo afetuoso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Fr Jozé do Redo Vigo Proval</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Fr Jozé do Redo Vigo Proval</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ma Sra D Tomazia Izabel Gonzaga</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Sra. D Tomazia Izabel Gonzaga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Aos pes de Vmce me chego, ainda q com pouco conhecimto, sempre animado por ser sra, cujas prendas tendo ouvido louvar mto, e por ser filha de outra sra a qm em N Sr amo, qto não sei explicar.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Aos pés de Vmce me chego, ainda q com pouco conhecido, sempre animado por ser sra, cujas prendas tendo ouvido louvar mto, e por ser filha de outra sra a qm em N Sr amo, qto não sei explicar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Não ha couza neste mũdo, q não tenha remedio:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Não há coisa neste modo, q não tenha remédio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>não ha mal q sempre dure:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Não há mal q sempre dure:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>confeço, e estou mto bem informa-do [...] do mto q nesa caza padece.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>confesso, e estou bem informado [...] do mto q nessa caça padece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>eu o sei mto bem de verde,</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>eu o sei bem de verde,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e sinceramte lhe confeço, q a ser ja conveniente, eu mesmo fora, qm com a sra sua Mai, fizera tod as deligas pa dahi a tirar.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e sinceramente lhe confesso, q a ser já conveniente, eu mesmo fora, qm com a sra sua Mai, fizera todas as deligas paí a tirar dele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>porem tudo tem seu tempo,</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Mas tudo tem seu tempo,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e rezoluçoens apre-sadas são precipicio certo.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e resoluções apressadas são precipício certo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Veja q em hũ peito nobre, como o seu, não dizem bem vilanias, e menos lhe estão bem inconsiderações.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Veja q em h peito nobre, como o seu, não dizem bem vilanias, e menos lhe estão bem inconsiderações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Disfarçar he bizar-ria, e generozide de animo.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Disfarçar é bizar-ria, e generosidade de ânimo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Desfarce por hũ pouco, coma, disimule, q Ds he grde,</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Desembaraço por um pouco, coma, dissimule, q Ds é grde,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>entretãto se podem dar ordem aos meyos pa o seu alivio.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>entretanto se podem dar ordem aos meios para o seu alívio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A mim me tem, pa qto lhe poder servir com aquela vonte, q em seu mesmo Pai experimentaria.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>A mim tem-me, pa qto lhe poder servir com aquela vaie, q em seu mesmo Pai experimentaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Não desdoure com açoens de hũ dia o credito, e louvores, q com a sua nobreza, e bela indole toda vida tem grangeado.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Não desdobre com açoens de hoje em dia o crédito, e louvores, q com a sua nobreza, e bela indole toda vida tem granjado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Pondere a suprema, e infinita Mage de Ds S N, q creou a vmce aos Anjos, a todo mũdo irado contra vmce, q pode tomar vingança das injurias, q vmce a sua mesma Mai está fazendo, q Ds toma por seus os agravos feitos a Mays.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Pondere a suprema, e infinita Mago de Ds S N, q criou a vmce aos Anjos, a todo modo irado contra vmce, q pode tomar vingança das injúrias, q vmce a sua mesma Mai está fazendo, q Ds toma por seus os agravos feitos a Mays.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Espero de vmce, e do seu generozo animo me não falte, ao q lhe peço prostrado a seus pes,</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Espero de vmce, e do seu generoso espírito me não falte, ao qual lhe peço prostrado a seus pesos,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e vem a ser, q coma, q de gloria a Ds; confuzão a satanas, e espere hũ pouco, q Ds descubra meyos eta de se ver livre desa caza.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e vem a ser, q coma, q de glória a Ds; confusão a satanás, e espere há pouco, q Ds descubra meios ea de se ver livre dessa caça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Meu Pai.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Meu Pai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Da boca do Rio escrevo esta a Vmce pa lhe dizer q chegando nós a ella, topamos essas Cartas do Pe Penha, e logo da outra banda ao Sergio com tudo o q havia na Fazenda.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Da boca do Rio escrevo esta a Vmce pa lhe dizer q chegando nós a ela, topamos estas Cartas do Pe Penha, e logo da outra banda ao Sergio com tudo o que havia na Fazenda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O Juiz lhe mandou em hũa Canoinha intimar a Portaria de S Excia e se Cazo elle não quizesse obedecer lhe dessem a vox de prezo.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>O Juiz lhe mandou em uma Canoinha intimar a Portaria de S. Excia e se Cazo ela não quisesse obedecer lhe dessem a vox de preço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Elle foi tão insolente q não quis obedecer a nada, e tão pouco Christão q vendo se allagava a Canoinha nem ao menos quis acudir a gente, de forma q morreu afogado hũ pobre mosso chamado Gabriel, q tinha hido fazer a deligencia</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Elle foi tão insolente q não quis obedecer a nada, e tão pouco Christão q vendo se inundava a Canoinha nem ao menos quis acudir a gente, de forma q morreu afogado h pobre mosso chamado Gabriel, q tinha ido fazer a deligência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Elle leva tudo sem dar fiança, aRancou taxas, e destruhio tudo.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Elle leva tudo sem dar fiança, aRancou taxas, e destruiu tudo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Em-fim fica tudo acabado.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Enfim está tudo acabado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Por essa attestação de Retratação verá vmce o que fes Franc Aranha por induçoens de Jozé da Sa Contra D Quiteria</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Por esta atestação de Retratação verá vmce o que fazes Franc Aranha por induçoens de Jozé da Sa Contra D Quiteria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Sergio aRancou da mão do homem a petição qdo lha foi intimar,</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Sergio aRancou da mão do homem a petição que lha foi intimidar,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>emfim Se S Excia não acudir a isto com pronto Remedio bem se pode consider tudo acabado.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>enfim Se S Excia não acudir a isto com pronto Remédio bem se pode considerar tudo acabado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Elle dis q se lhe não dá de ordens de S Excia</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Elle dizs q se lhe não dá de ordens de S Excia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Nós temos tido boa viajem, e já estamos livres de todo o perigo e até amenhã estamos em Caza.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Nós temos tido boa viagem, e já estamos livres de todo perigo e até mesmo amanhe estamos em Caça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Mandeme por este Portador as me-ias pretas.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Envie-me por este Portador as minhas pretas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Lembrcas a todos eta</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Recordrcas a todos eta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ds Ge a Vmce eta</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Ds Ge a Vmce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Fo obde</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Fo obde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Miguel</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Miguel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Mto Rdo Pe e Snr</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Mto Rdo Pe e Snr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Resebo a sua carta a qual me perdoe mas visto não serem os seus remedios ificazes pa a minha salvação pois so como sabe me salvaria não tem mais resposta q dizerlhe como me acho q suponho ficara satisfeito pois he o q podião esperar de semilhante negação demora e emganos com q tem Vmces tratado a minha alma</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Recebo a sua carta a qual me perdoe mas visto não serem os seus remédios ificazes para a minha salvação pois só como sabe me salvaria não tem mais resposta q dizer-lhe como me acho q suponho ficara satisfeito pois é o q podem esperar de semillante negação demora e enganos com q tem Vmces tratado a minha alma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e como nem Ds nem a sua igreja e menistros podem valerme eu por ultima rezelucão digo a Vmce q renego de Ds; da sua may da trindade seus misterios sacramtos de tudo o q eles comtem como nulo e totalmte errado, por experiençia minha pois não tem poder</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e como nem Ds nem a sua igreja e ministros podem valer-me eu por última reselucao digo a Vmce q renego de Ds; de sua may da trindade seus mistérios sacramtos de tudo o que eles comtem como nulo e totalmte errado, por experiência minha pois não tem poder algum, pois não tem poder algum sobre eles como nulo e totalmte errado, por experiência minha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e de todo me emtrego ao demonio a quem so conheso por poderozo cuja he e a de ser sempre a minha comfição; e comunhão o q digo, e comfirmo mto em meu juizo perfeito,</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e de tudo me entrego ao demônio a quem sou conhecido por poderozo cuja é a de ser sempre a minha comfição; e comunhão o que digo, e comfirmo mto em meu juízo perfeito,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>e nada mais tem lugar pelo q portesto ja lhe não dar emfados</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>e nada mais tem lugar pelo qual portesto já não lhe dar emfados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>dos q lhe dei me peza mto mto</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>dos q lhe dei me peça mto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>N S 4 de Agosto de 1745</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>4 de Agosto de 1745</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>de huma alma q ja fica como Vmces podião esperar nas suas demoras e negasois</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>de uma alma q já fica como Vmces podem esperar nas suas demoras e negasóis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Franca jozepha</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Franca jozepha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Meu prozuradiçimo [...] amor</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>O meu prosuradíssimo [...] amor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>reçebi u mimmo das [...] tam estimadas exproçoes as quaes oni o meu peito como [...] de hum obigeto guntamente Sintindo mto u não ter podido escreverlhe</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>recebi um mimo das [...] tão estimadas exprocessos as quais o meu peito como [...] de um objeto guntamente Sintindo mto ou não ter podido escrever-lhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>mais não he por descudo meu</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>já não é por descuido meu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>he para mor de a minha mana porque Sempre handa descomfiada commigo i ter me osconsdido os tinteiros</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>é para morro de minha mana porque Sempre tenham desconfiada comigo e ter-me osconsdido os tinteiros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>mais agora que tive lugar cero dar resposta as suas queridas letras pois tanto as estimo i venero [...] pois basta Ser do meu iternos amores para as estimar i venerar como coiza Sua</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>mais agora que tive lugar zero dar resposta às suas queridas letras pois tanto as estimo i veneno [...] pois basta Ser do meu iternos amores para as estimar e venerar como coiza Sua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>meu querido amores não Sabe o que tem estado a minha tia de agastada do que handam dezendo la pelo comvento dehela pois ja tem as ginelas fichadas i p [...] ereçeme que nunca se habriam a un hum padre ja velho que lla hia</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>meu querido amores não Sabe o que tem estado a minha tia de agastada do que tenham dezendo a pelo convento dehela pois já tem as ginelas fichadas i p [...] ereçeme que nunca se haveriam a um padre já velho que lla hia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>hoitro dia hia a fazer huma vizita achandone eu la tambem i foi a minha prima a porta i dice que não estava sua mai em caza</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>hoje dia ia a fazer uma visita achando eu também i foi a minha prima a porta e diz que não estava sua mai em caça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>i tem tudo fichado para mor dle porque heile hera hum tollo</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>tem tudo fichado para morrer dele porque heile hera um tolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>the u forei Antonio ja não vinha caza dela para mor dele</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>the u forei Antonio já não vinha caça dela para mor dele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>com isto não emfado mais</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>com isto não enfado mais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>desta Sua umilde criada que mto lhe cer i dezeja a vida athe a morte</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>desta Sua humilde criada que mto lhe cede e dezeda a vida até a morte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Maria Françisca</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="translate.py" creationdate="20231229T110435Z">
+        <seg>Maria Francisca</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

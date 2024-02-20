@@ -1,0 +1,7 @@
+datasets
+evaluate
+logging
+numpy
+transformers
+bs4
+nltk
