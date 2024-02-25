@@ -1,7 +1,10 @@
+accelerate
+bs4
 datasets
 evaluate
-logging
-numpy
-transformers
-bs4
 nltk
+numpy
+torch
+sacrebleu
+sentencepiece
+transformers

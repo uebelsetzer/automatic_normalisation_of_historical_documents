@@ -15,12 +15,27 @@ The rest of the data is divided into several folders, containing the training se
 
 A basic requirement is to have **Python 3** installed in your system. It is also recommended to create a new virtual environment for running the scripts in this repository.
 
+
+
+### On Linux:
+
 A simple way to do create a new environment would be to open a command line (or terminal) within the folder with this repository and type:
 
 ```
-python3 -m venv nmt4hd
+python -m venv nmt4hd
 source nmt4hd/bin/activate
 ```
+
+### On Windows:
+
+A simple way to do create a new environment would be to open a PowerShell window (make sure you run it as administrator) within the folder with this repository and type:
+
+```
+pip install virtualenv
+python -m virtualenv nmt4dh
+.\nmt4dh\Scripts\activate
+```
+
 
 This should create and activate a new environment called **nmt4hd** (this name can be modified), and make sure it will not mess with anything else in the root Python environment.
 
@@ -39,17 +54,17 @@ Due to the size of the fine-tuned models, we could not host them in this reposit
 
 There are three scripts for fine-tuning NMT models, whose names start with "finetuningNMT-". These files can be run as they are, without selecting any option, by simply typing:
 ```
-python3 finetuningNMT-opus.py
+python finetuningNMT-opus.py
 ```
 
 or
 ```
-python3 finetuningNMT-mbart50.py
+python finetuningNMT-mbart50.py
 ```
 
 or
 ```
-python3 finetuningNMT-nllb_200.py
+python finetuningNMT-nllb_200.py
 ```
 
 or these scripts can be customised (for using other available models, or a different training set) by adding some options. If they are not customised, they will run with the default options used for one of the experiments described in the paper. The available options are the following (which are equal for all models):
@@ -62,7 +77,7 @@ or these scripts can be customised (for using other available models, or a diffe
 
 Example (which is in the default use of the script):
 ```
-python3 finetuningNMT-opus.py -m "Helsinki-NLP/opus-mt-tc-big-itc-itc" -d "training_data/" -dn "dev.tsv" -tn "train.tsv"
+python finetuningNMT-opus.py -m "Helsinki-NLP/opus-mt-tc-big-itc-itc" -d "training_data/" -dn "dev.tsv" -tn "train.tsv"
 ```
 
 For fine-tuning NMT models, we strongly recommend using a good GPU (for the experiments described in the paper, we used an Nvidia RTX 4090 24GB). Another option would be to use online services, such as Google Colab to run the scripts on the virtual machines. The fine-tuning process could potentially be run on CPU, especially for the OPUS model, which is smaller, but it would be extremely slow.
@@ -83,7 +98,7 @@ At the end of the fine-tuning step, the system will save the best model evaluate
 Again there are three scripts for normalising texts (all starting with "translate-"). They all can be used with their default parameters, as in the fine-tuning step, but at least the folder of the fine-tuned model must be informed, for instance:
 
 ```
-python3 finetuningNMT-opus.py -m "opus-mt-tc-big-itc-itc-finetuned-por-to-pob/checkpoint-297/"
+python finetuningNMT-opus.py -m "opus-mt-tc-big-itc-itc-finetuned-por-to-pob/checkpoint-297/"
 ```
 
 It is also possible to load an already existing model, for instance: "Helsinki-NLP/opus-mt-tc-big-itc-itc", which will then translate/normalise the source text using the non-fine-tuned model.
@@ -106,7 +121,7 @@ The rule-based method uses a glossary `glossary.txt` as input, and normalises a 
 To run the rule-based script, simply type:
 
 ```
-python3 rule-based_normalisation.py
+python rule-based_normalisation.py
 ```
 
 The medical test set will be used by default, and it will generate an evaluation TXT file, and a bilingual (i.e. original -> normalised) TMX file.
@@ -131,7 +146,7 @@ This script uses a source text, an automatically normalised output and a gold st
 If used as is, it will take as input an already existing normalisation produced with the OPUS fine-tuned model for the medical domain, as presented in the paper:
 
 ```
-python3 evaluate_NMT.py
+python evaluate_NMT.py
 ```
 
 The options for this script are:
