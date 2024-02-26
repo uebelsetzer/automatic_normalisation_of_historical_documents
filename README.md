@@ -98,7 +98,7 @@ At the end of the fine-tuning step, the system will save the best model evaluate
 Again there are three scripts for normalising texts (all starting with "translate-"). They all can be used with their default parameters, as in the fine-tuning step, but at least the folder of the fine-tuned model must be informed, for instance:
 
 ```
-python finetuningNMT-opus.py -m "opus-mt-tc-big-itc-itc-finetuned-por-to-pob/checkpoint-297/"
+python translate-opus.py -m "opus-mt-tc-big-itc-itc-finetuned-por-to-pob/checkpoint-297/"
 ```
 
 It is also possible to load an already existing model, for instance: "Helsinki-NLP/opus-mt-tc-big-itc-itc", which will then translate/normalise the source text using the non-fine-tuned model.
