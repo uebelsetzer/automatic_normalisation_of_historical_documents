@@ -3,7 +3,7 @@
 This repository contains data associated to the paper:
 
 
-> Zilio, Leonardo, Lazzari, Rafaela R. and Finatto, Maria José B. 2024. Can rules still beat neural networks? The case of automatic normalisation for 18th-century Portuguese texts. In _Proceedings of the International Conference on Computational Processing of Portuguese (PROPOR 2024): workshops_, vol. 2, pp. xxx-xxx. (to appear)
+> Zilio, Leonardo, Lazzari, Rafaela R. and Finatto, Maria José B. 2024. Can rules still beat neural networks? The case of automatic normalisation for 18th-century Portuguese texts. In _Proceedings of the International Conference on Computational Processing of Portuguese (PROPOR 2024)_, vol. 2, pp. 86-95. Available at: https://aclanthology.org/2024.propor-2.0.pdf
 
 
 The repository contains the datasets for training and evaluating neural machine translation (NMT) models on historical data, as well as a rule-based counterpart. There are three main file types in the root folder of this repository: fine-tuning scripts for NMT, translating scripts (for applying the fine-tuned NMT models and the rule-based model to a test set), and an evaluation script. These are all individually explained below.
